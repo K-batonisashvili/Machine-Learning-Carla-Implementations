@@ -1,2 +1,2 @@
-# Machine-Learning-EC518
-Robot Learning Course with RL, IL, Modular Pipeline implementations
+# Machine-Learning
+Machine Learning implementations within Carla: RL, IL, Modular Pipeline implementations
