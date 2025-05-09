@@ -5,7 +5,7 @@ from scipy.signal import find_peaks
 from scipy.interpolate import splprep, splev
 
 # Load the front view camera image
-original_image = cv2.imread('A:/Robot Learning/HW2/front_view_camera.png')
+original_image = cv2.imread('input_path_here')
 
 # Set dimensions for the output birds-eye view image
 image_width = 200
